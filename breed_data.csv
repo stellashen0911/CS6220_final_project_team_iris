@@ -1,0 +1,173 @@
+Breed,Category,Intelligence-Ranking,Intelligence-Category,Size-Category,Lifetime-Cost($),Purchase-Cost($)
+Affenpinscher,toy,37,above-average,small,15835,510
+Afghan Hound,hound,80,Lowest,large,20818,890
+Airedale Terrier,terrier,29,above-average,medium,,733
+Akita,working,54,average,large,18217,1202
+Alaskan Malamute,working,50,average,large,19069,1210
+American English Coonhound,hound,,,large,,283
+American Eskimo Dog,non-sporting,,,small,,560
+American Foxhound,hound,46,average,medium,,757
+American Staffordshire Terrier,terrier,34,above-average,medium,,1043
+American Water Spaniel,sporting,44,average,medium,,730
+Anatolian Shepherd Dog,working,,,large,,
+Australian Cattle Dog,herding,10,brightest,medium,17607,530
+Australian Shepherd,herding,42,average,medium,18524,565
+Australian Terrier,terrier,34,above-average,small,15475,640
+Basenji,hound,79,Lowest,medium,19125,940
+Basset Hound,hound,71,Lowest,small,15827,490
+Beagle,hound,73,Lowest,small,16777,288
+Bearded Collie,herding,34,above-average,medium,,
+Beauceron,herding,,,large,,967
+Bedlington Terrier,terrier,40,average,small,19151,1058
+Belgian Malinois,herding,22,excellent,large,,1080
+Belgian Sheepdog,herding,15,excellent,large,,
+Belgian Tervuren,herding,14,excellent,large,16600,1070
+Bernese Mountain Dog,working,22,excellent,large,14032,1320
+Bichon Frise,non-sporting,45,average,small,17063,693
+Black and Tan Coonhound,hound,44,average,large,,325
+Black Russian Terrier,working,,,large,,2833
+Bloodhound,hound,75,Lowest,large,11979,608
+Bluetick Coonhound,hound,,,large,,370
+Border Collie,herding,1,brightest,medium,17404,623
+Border Terrier,terrier,30,above-average,small,19575,833
+Borzoi,hound,76,Lowest,large,14007,675
+Boston Terrier,non-sporting,54,average,medium,15352,690
+Bouvier des Flandres,herding,29,above-average,large,16489,1335
+Boxer,working,48,average,medium,13641,700
+Boykin Spaniel,sporting,,,medium,,531
+Briard,herding,30,above-average,large,17004,650
+Brittany,sporting,19,excellent,medium,19503,618
+Brussels Griffon,toy,59,fair,small,16925,833
+Bull Terrier,terrier,66,fair,medium,16051,1085
+Bulldog,non-sporting,78,Lowest,medium,11977,2680
+Bullmastiff,working,69,fair,large,12128,980
+Cairn Terrier,terrier,35,above-average,small,18965,435
+Canaan Dog,herding,,,medium,,
+Cane Corso,working,,,large,,1070
+Cardigan Welsh Corgi,herding,26,excellent,small,,828
+Cavalier King Charles Spaniel,toy,44,average,small,16169,1017
+Cesky Terrier,terrier,,,small,,
+Chesapeake Bay Retriever,sporting,27,above-average,large,14432,522
+Chihuahua,toy,67,fair,small,22640,588
+Chinese Crested,toy,61,fair,small,,538
+Chinese Shar Pei,non-sporting,51,average,medium,,840
+Chow Chow,non-sporting,77,Lowest,medium,13745,515
+Clumber Spaniel,sporting,37,above-average,medium,15695,1033
+Cocker Spaniel,sporting,20,excellent,small,19888,465
+Collie,herding,16,excellent,large,,650
+Curly Coated Retriever,sporting,41,average,large,,
+Dachshund,hound,49,average,small,17350,423
+Dalmatian,non-sporting,39,above-average,medium,17194,695
+Dandie Dinmont Terrier,terrier,62,fair,small,18725,925
+Doberman Pinscher,working,5,brightest,large,15929,790
+English Cocker Spaniel,sporting,18,excellent,medium,16442,800
+English Foxhound,hound,46,average,large,,
+English Setter,sporting,37,above-average,large,17548,615
+English Springer Spaniel,sporting,13,excellent,medium,18950,615
+English Toy Spaniel,toy,45,average,small,14670,925
+Entlebucher Mountain Dog,herding,,,medium,,1167
+Field Spaniel,sporting,34,above-average,medium,,
+Finnish Lapphund,herding,,,medium,,
+Finnish Spitz,non-sporting,43,average,medium,,
+Flat-Coated Retriever,sporting,18,excellent,medium,13845,600
+French Bulldog,non-sporting,58,fair,medium,15116,1900
+German Pinscher,working,,,medium,,1500
+German Shepherd,herding,3,brightest,large,15091,820
+German Shorthaired Pointer,sporting,17,excellent,large,20849,545
+German Wirehaired Pointer,sporting,44,average,large,,655
+Giant Schnauzer,working,28,above-average,large,21307,810
+Glen of Imaal Terrier,terrier,,,small,,
+Golden Retriever,sporting,4,brightest,medium,18571,958
+Gordon Setter,sporting,34,above-average,large,16953,700
+Great Dane,working,48,average,large,12759,1040
+Great Pyrenees,working,64,fair,large,,503
+Greater Swiss Mountain Dog,working,,,large,,1605
+Greyhound,hound,46,average,large,13771,1175
+Harrier,hound,,,medium,,
+Havanese,toy,,,small,,830
+Ibizan Hound,hound,53,average,large,,1500
+Icelandic Sheepdog,herding,,,medium,,
+Irish Red and White Setter,sporting,,,large,,1000
+Irish Setter,sporting,35,above-average,large,17544,525
+Irish Terrier,terrier,53,average,medium,,588
+Irish Water Spaniel,sporting,24,excellent,medium,,
+Irish Wolfhound,hound,41,average,large,16039,1333
+Italian Greyhound,toy,60,fair,small,14270,800
+Japanese Chin,toy,62,fair,small,,513
+Keeshond,non-sporting,16,excellent,medium,,610
+Kerry Blue Terrier,terrier,35,above-average,medium,14994,1200
+Komondor,working,,,large,,656
+Kuvasz,working,42,average,large,,
+Labrador Retriever,sporting,7,brightest,medium,18422,810
+Lakeland Terrier,terrier,62,fair,small,,1093
+Leonberger,working,,,large,13232,1480
+Lhasa Apso,non-sporting,68,fair,small,18985,350
+Lowchen,non-sporting,,,small,,
+Maltese,toy,59,fair,small,16073,650
+Manchester Terrier,terrier,32,above-average,small,,720
+Mastiff,working,72,Lowest,large,11224,900
+Miniature Bull Terrier,terrier,,,small,,1740
+Miniature Pinscher,toy,37,above-average,small,,535
+Miniature Schnauzer,terrier,12,excellent,small,16753,715
+Neapolitan Mastiff,working,,,large,,1760
+Newfoundland,working,34,above-average,large,16802,1178
+Norfolk Terrier,terrier,56,fair,small,21185,2083
+Norwegian Buhund,herding,,,medium,,
+Norwegian Elkhound,hound,36,above-average,medium,,448
+Norwegian Lundehund,non-sporting,,,small,,
+Norwich Terrier,terrier,38,above-average,small,,1245
+Nova Scotia Duck Tolling Retriever,sporting,,,medium,11100,1500
+Old English Sheepdog,herding,63,fair,medium,19551,832
+Otterhound,hound,46,average,large,,
+Papillon,toy,8,brightest,small,18157,740
+Parson Russell Terrier,terrier,,,small,,528
+Pekingese,toy,74,Lowest,small,17803,885
+Pembroke Welsh Corgi,herding,11,excellent,small,19625,587
+Petit Basset Griffon Vendeen,hound,62,fair,small,,400
+Pharaoh Hound,hound,37,above-average,medium,18221,913
+Plott,hound,,,medium,,
+Pointer,sporting,43,average,large,21049,294
+Polish Lowland Sheepdog,herding,,,medium,,
+Pomeranian,toy,23,excellent,small,13677,670
+Poodle,non-sporting,2,brightest,medium,18382,900
+Portuguese Water Dog,working,,,medium,,
+Pug,toy,57,fair,medium,15421,469
+Puli,herding,27,above-average,medium,,913
+Pyrenean Shepherd,herding,,,medium,,
+Redbone Coonhound,hound,,,large,,425
+Rhodesian Ridgeback,hound,52,average,large,14355,995
+Rottweiler,working,9,brightest,large,16395,1118
+Saint Bernard,working,65,fair,large,17336,875
+Saluki,hound,43,average,medium,21585,1525
+Samoyed,working,33,above-average,medium,21951,1162
+Schipperke,non-sporting,15,excellent,small,,658
+Scottish Deerhound,hound,47,average,large,,
+Scottish Terrier,terrier,65,fair,small,15187,829
+Sealyham Terrier,terrier,56,fair,small,,
+Shetland Sheepdog,herding,6,brightest,small,17469,465
+Shiba Inu,non-sporting,,,small,,890
+Shih Tzu,toy,70,Lowest,small,18264,583
+Siberian Husky,working,45,average,medium,19043,650
+Silky Terrier,toy,37,above-average,small,,448
+Skye Terrier,terrier,55,fair,small,,550
+Smooth Fox Terrier,terrier,40,average,small,,575
+Soft-Coated Wheaten Terrier,terrier,40,average,medium,,832
+Spinone Italiano,sporting,,,large,,1725
+Staffordshire Bull Terrier,terrier,49,average,medium,18772,1145
+Standard Schnauzer,working,18,excellent,medium,,855
+Sussex Spaniel,sporting,,,small,,
+Swedish Vallhund,herding,,,small,19739,772
+Tibetan Mastiff,working,,,large,20899,3460
+Tibetan Spaniel,non-sporting,46,average,small,22104,1050
+Tibetan Terrier,non-sporting,62,fair,small,17643,1140
+Toy Fox Terrier,toy,,,small,,460
+Vizsla,sporting,25,excellent,medium,,935
+Weimaraner,sporting,21,excellent,large,,562
+Welsh Springer Spaniel,sporting,31,above-average,medium,17492,750
+Welsh Terrier,terrier,53,average,small,,843
+West Highland White Terrier,terrier,47,average,small,17690,538
+Whippet,hound,51,average,medium,18160,915
+Wire Fox Terrier,terrier,51,average,small,,668
+Wirehaired Pointing Griffon,sporting,46,average,medium,,755
+Xoloitzcuintli,non-sporting,,,medium,,717
+Yorkshire Terrier,toy,27,above-average,small,17944,1057
