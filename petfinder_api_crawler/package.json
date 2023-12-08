@@ -1,0 +1,15 @@
+{
+  "name": "dog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "type": "module",
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
