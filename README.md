@@ -9,3 +9,5 @@ https://docs.google.com/document/d/1c30yVdw4Mo7xrZ9yAmpHAXqEsgftU3VvYdXDZrrzxAM/
 https://docs.google.com/document/d/13EOTF586oNlZ5A5nmHe2Z9U18SzNv_GQuEVmxyPWPeQ/edit     this is the final report 
 
 https://onedrive.live.com/edit?id=AF3FE426FC31A198!16691&resid=AF3FE426FC31A198!16691&ithint=file%2cpptx&authkey=!AMRcEItJhERlUa0&wdo=2&cid=af3fe426fc31a198   ppt link
+
+presentation video link: https://northeastern-my.sharepoint.com/:v:/g/personal/bian_yuq_northeastern_edu/EW5X_0uVFDpIvLhBRcTt8wEBnAqNIF-HwIA_MUbQnAsNog
